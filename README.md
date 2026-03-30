@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0451-sort-characters-by-frequency) |
 | [2418-sort-the-people](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2418-sort-the-people) |
@@ -84,6 +85,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0012-integer-to-roman) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0451-sort-characters-by-frequency) |
 | [2418-sort-the-people](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2418-sort-the-people) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
