@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0645-set-mismatch) |
@@ -157,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
