@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -164,9 +166,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
