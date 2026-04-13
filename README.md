@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1051-height-checker) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2418-sort-the-people](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2418-sort-the-people) |
 ## Two Pointers
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1051-height-checker) |
 | [2418-sort-the-people](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
