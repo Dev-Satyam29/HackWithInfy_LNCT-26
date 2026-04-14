@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0692-top-k-frequent-words) |
+| [0791-custom-sort-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0791-custom-sort-string) |
 | [2418-sort-the-people](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2418-sort-the-people) |
 ## Prefix Sum
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0791-custom-sort-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0791-custom-sort-string) |
 | [0888-fair-candy-swap](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0912-sort-an-array) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0692-top-k-frequent-words) |
+| [0791-custom-sort-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0791-custom-sort-string) |
 | [0888-fair-candy-swap](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1331-rank-transform-of-an-array) |
 | [2418-sort-the-people](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2418-sort-the-people) |
