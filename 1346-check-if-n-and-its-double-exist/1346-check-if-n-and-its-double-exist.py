@@ -1,10 +1,9 @@
 class Solution:
     def checkIfExist(self, arr: List[int]) -> bool:
-        n=len(arr)
-        for i in range(n):
-            for j in range(n):
-                if i!=j and arr[i]==2*arr[j]:
-                    return True
+        seen=set()
+        for i in arr:
+            if 2*i in seen or (i%2==0 and i//2 in seen):
+                return True
+            seen.add(i)
         return False
-
         
