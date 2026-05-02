@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0072-edit-distance) |
+| [0788-rotated-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0788-rotated-digits) |
 ## Stack
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0628-maximum-product-of-three-numbers) |
+| [0788-rotated-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0788-rotated-digits) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Greedy
 |  |
