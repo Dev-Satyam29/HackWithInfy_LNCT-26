@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2094-finding-3-digit-even-numbers) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2833-furthest-point-from-origin](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2833-furthest-point-from-origin) |
 ## Hash Table
 |  |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3731-find-missing-elements) |
