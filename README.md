@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1748-sum-of-unique-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2032-two-out-of-three](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2032-two-out-of-three) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2078-two-furthest-houses-with-different-colors) |
