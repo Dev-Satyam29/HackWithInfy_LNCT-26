@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2032-two-out-of-three) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2094-finding-3-digit-even-numbers) |
+| [2126-destroying-asteroids](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2126-destroying-asteroids) |
 | [2418-sort-the-people](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2418-sort-the-people) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2784-check-if-array-is-good](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2784-check-if-array-is-good) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2094-finding-3-digit-even-numbers) |
+| [2126-destroying-asteroids](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2126-destroying-asteroids) |
 | [2418-sort-the-people](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3731-find-missing-elements) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0561-array-partition) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2126-destroying-asteroids) |
 ## Trie
 |  |
 | ------- |
