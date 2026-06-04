@@ -1,7 +1,9 @@
 class Solution:
     def findNonMinOrMax(self, nums: List[int]) -> int:
-        if len(nums)<=2:
-            return -1
-        nums.sort()
-        return nums[1]
+        maxi=max(nums)
+        mini=min(nums)
+        for i in nums:
+            if i!=maxi and i!=mini:
+                return i
+        return -1
         
