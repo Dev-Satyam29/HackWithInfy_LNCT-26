@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1732-find-the-highest-altitude](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
 |  |
 | ------- |
