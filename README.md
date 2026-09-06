@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0658-find-k-closest-elements) |
+| [0844-backspace-string-compare](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2390-removing-stars-from-a-string) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0791-custom-sort-string) |
 | [0819-most-common-word](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0819-most-common-word) |
+| [0844-backspace-string-compare](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1108-defanging-an-ip-address) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1094-car-pooling) |
 | [2390-removing-stars-from-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2974-minimum-number-game) |
