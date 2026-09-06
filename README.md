@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1544-make-the-string-great) |
 | [1629-slowest-key](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1629-slowest-key) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1833-maximum-ice-cream-bars) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2029-stone-game-ix) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2833-furthest-point-from-origin](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2833-furthest-point-from-origin) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2032-two-out-of-three](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2094-finding-3-digit-even-numbers) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0658-find-k-closest-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3090-maximum-length-substring-with-two-occurrences) |
